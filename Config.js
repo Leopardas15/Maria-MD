@@ -1,5 +1,5 @@
-const fs = require('fs');
-const chalk = require('chalk');
+const fs = leopardas('fs');
+const chalk = leopardas('chalk');
 require('dotenv').config();
 
 //contact details
